@@ -1,0 +1,213 @@
+{
+  "success": true,
+  "message": "请求成功",
+  "code": 200,
+  "data": [
+    {
+      "id": 1000,
+      "parent_id": 0,
+      "value": 1000,
+      "label": "权限",
+      "children": [
+        {
+          "id": 1100,
+          "parent_id": 1000,
+          "value": 1100,
+          "label": "用户管理"
+        },
+        {
+          "id": 1400,
+          "parent_id": 1000,
+          "value": 1400,
+          "label": "角色管理"
+        },
+        {
+          "id": 1300,
+          "parent_id": 1000,
+          "value": 1300,
+          "label": "部门管理"
+        },
+        {
+          "id": 1200,
+          "parent_id": 1000,
+          "value": 1200,
+          "label": "菜单管理"
+        },
+        {
+          "id": 1500,
+          "parent_id": 1000,
+          "value": 1500,
+          "label": "岗位管理"
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "parent_id": 0,
+      "value": 2000,
+      "label": "数据",
+      "children": [
+        {
+          "id": 2100,
+          "parent_id": 2000,
+          "value": 2100,
+          "label": "数据字典"
+        },
+        {
+          "id": 2200,
+          "parent_id": 2000,
+          "value": 2200,
+          "label": "附件管理"
+        },
+        {
+          "id": 2300,
+          "parent_id": 2000,
+          "value": 2300,
+          "label": "数据表维护"
+        },
+        {
+          "id": 2700,
+          "parent_id": 2000,
+          "value": 2700,
+          "label": "系统公告"
+        },
+        {
+          "id": 2500,
+          "parent_id": 2000,
+          "value": 2500,
+          "label": "应用中心",
+          "children": [
+            {
+              "id": 2530,
+              "parent_id": 2500,
+              "value": 2530,
+              "label": "应用管理"
+            },
+            {
+              "id": 2510,
+              "parent_id": 2500,
+              "value": 2510,
+              "label": "应用分组"
+            }
+          ]
+        },
+        {
+          "id": 2600,
+          "parent_id": 2000,
+          "value": 2600,
+          "label": "应用接口",
+          "children": [
+            {
+              "id": 2630,
+              "parent_id": 2600,
+              "value": 2630,
+              "label": "接口管理"
+            },
+            {
+              "id": 2610,
+              "parent_id": 2600,
+              "value": 2610,
+              "label": "接口分组"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3000,
+      "parent_id": 0,
+      "value": 3000,
+      "label": "监控",
+      "children": [
+        {
+          "id": 3200,
+          "parent_id": 3000,
+          "value": 3200,
+          "label": "服务监控"
+        },
+        {
+          "id": 3600,
+          "parent_id": 3000,
+          "value": 3600,
+          "label": "在线用户"
+        },
+        {
+          "id": 3700,
+          "parent_id": 3000,
+          "value": 3700,
+          "label": "缓存监控"
+        },
+        {
+          "id": 3300,
+          "parent_id": 3000,
+          "value": 3300,
+          "label": "日志监控",
+          "children": [
+            {
+              "id": 3400,
+              "parent_id": 3300,
+              "value": 3400,
+              "label": "登录日志"
+            },
+            {
+              "id": 3500,
+              "parent_id": 3300,
+              "value": 3500,
+              "label": "操作日志"
+            },
+            {
+              "id": 3800,
+              "parent_id": 3300,
+              "value": 3800,
+              "label": "接口日志"
+            },
+            {
+              "id": 3850,
+              "parent_id": 3300,
+              "value": 3850,
+              "label": "队列日志"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "parent_id": 0,
+      "value": 4000,
+      "label": "工具",
+      "children": [
+        {
+          "id": 4100,
+          "parent_id": 4000,
+          "value": 4100,
+          "label": "模块管理"
+        },
+        {
+          "id": 4200,
+          "parent_id": 4000,
+          "value": 4200,
+          "label": "代码生成器"
+        },
+        {
+          "id": 4400,
+          "parent_id": 4000,
+          "value": 4400,
+          "label": "定时任务"
+        },
+        {
+          "id": 4600,
+          "parent_id": 4000,
+          "value": 4600,
+          "label": "系统接口"
+        }
+      ]
+    },
+    {
+      "id": 4500,
+      "parent_id": 0,
+      "value": 4500,
+      "label": "系统设置"
+    }
+  ]
+}

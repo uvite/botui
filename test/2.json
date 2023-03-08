@@ -1,0 +1,26 @@
+{
+  "id": 38,
+  "CreatedAt": "2023-03-06T03:10:56.991+08:00",
+  "UpdatedAt": "2023-03-06T03:35:35.019+08:00",
+  "path": "2222",
+  "name": "2222",
+  "code": "222",
+  "hidden": false,
+  "component": "222",
+  "sort": 1,
+  "meta": {
+    "activeName": "",
+    "keepAlive": false,
+    "defaultMenu": false,
+    "title": "2222",
+    "type": "M",
+    "icon": "",
+    "closeTab": false
+  },
+  "authoritys": null,
+  "children": null,
+  "parameters": [],
+  "menuBtn": [],
+  "mate.type": "I",
+  "mate.icon": "IconCalendarClock"
+}
